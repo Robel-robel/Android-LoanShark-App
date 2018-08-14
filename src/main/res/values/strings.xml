@@ -1,0 +1,9 @@
+<resources>
+    <string name="txtReg"><u>Click Here to Register</u></string>
+    <string name="app_name">LoanShark</string>
+    <string-array name="list">
+        <item>Select Item</item>
+        <item>Borrow Money</item>
+        <item>Make Payment</item>
+    </string-array>
+</resources>
